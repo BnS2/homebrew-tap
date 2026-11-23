@@ -1,6 +1,6 @@
 cask "revelation" do
-  version "0.3.6"
-  sha256 "89f939bc45017d3f14fb31400083cacd63136b7f1f433033fa80d6a47e5f053f"
+  version "0.3.7"
+  sha256 "4042c240ea1b8226a93806ff242e386b3a12e9f2868521b550be75782113caa8"
 
   url "https://github.com/BnS2/revelation-presenter/releases/download/v#{version}/Revelation_#{version}_aarch64.dmg"
   name "Revelation"
